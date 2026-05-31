@@ -26,10 +26,17 @@
 
 ## Projects & Links
 
-- 自营 AI Token 中转站：GPT / Claude 全模型，低价、稳定、耐用，适合日常自用。
-  https://xjbtoken.site/home
-- 教育官网：
-  https://xjbedu.site/
+### AI Token Hub
+
+[![GPT](https://img.shields.io/badge/GPT-Full_Models-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://xjbtoken.site/home)
+[![Claude](https://img.shields.io/badge/Claude-Full_Models-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://xjbtoken.site/home)
+[![Stable](https://img.shields.io/badge/Stable-Daily_Use-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://xjbtoken.site/home)
+[![Low Cost](https://img.shields.io/badge/Low_Cost-High_Value-16A34A?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://xjbtoken.site/home)
+
+自营 AI Token 中转站，覆盖 `GPT / Claude` 全模型，主打低价、稳定、耐用，适合日常自用。
+
+- 直达地址：https://xjbtoken.site/home
+- 教育官网：https://xjbedu.site/
 
 ## Publications
 

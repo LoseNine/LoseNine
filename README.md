@@ -24,6 +24,13 @@
 - 浏览器底层机制、渲染流程与内核级能力扩展
 - 指纹环境模拟、浏览器特征控制与工程化落地
 
+## Projects & Links
+
+- 自营 AI Token 中转站：GPT / Claude 全模型，低价、稳定、耐用，适合日常自用。
+  https://xjbtoken.site/home
+- 教育官网：
+  https://xjbedu.site/
+
 ## Publications
 
 - 《反爬虫AST原理与还原混淆实战》

@@ -1,3 +1,18 @@
+<table>
+  <tr>
+    <td width="180" align="center">
+      <a href="https://xjbtoken.site/">
+        <img src="images/xjbtoken.svg" width="160" alt="XJB AI" />
+      </a>
+    </td>
+    <td>
+      <sub>赞助商</sub><br>
+      <a href="https://xjbtoken.site/"><b>XJBToken</b></a><br>
+      低价实惠的 AI Token 中转站，包含 GPT 5.4 / 5.5 全系列，以及 Claude Opus 4.6 / 4.7 的 Kiro 和 Max 渠道，包纯度，实用耐蹬，如意自用：<a href="https://xjbtoken.site/">https://xjbtoken.site/</a>。
+    </td>
+  </tr>
+</table>
+
 ## Projects & Links
 
 ### AI Token Hub

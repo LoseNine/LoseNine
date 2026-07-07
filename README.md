@@ -25,6 +25,7 @@
 FastAIToken AI Token 中转站，覆盖 `GPT / Claude` 全模型，主打低价、稳定、耐用，适合日常自用。
 
 - 直达地址：http://fastaitoken.com/
+- QQ 交流群：1054566214
 - 教育官网：https://xjbedu.site/
   小肩膀教育，十年安全逆向培训老机构，专注网络爬虫、JS 逆向、安卓 / iOS 逆向、Chromium / Firefox / Safari 指纹浏览器内核开发和 AI 逆向教学。
 
